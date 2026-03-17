@@ -9,7 +9,7 @@
 
 ## 🚀 Sulamita Viegas — Construindo APIs e soluções reais
 
-Sou desenvolvedora em formação com foco em backend, trabalhando com APIs REST, banco de dados e containers.
+Sou desenvolvedora em formação com foco em backend, trabalhando com APIs REST, banco de dados, máquinas virtuais e containers.
 
 Tenho experiência prática com projetos acadêmicos envolvendo:
 - Desenvolvimento de APIs com FastAPI
@@ -21,13 +21,15 @@ Tenho experiência prática com projetos acadêmicos e estou sempre buscando evo
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Principais Tecnologias e Ferramentas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Oracle APEX](https://img.shields.io/badge/Oracle%20APEX-FF0000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
