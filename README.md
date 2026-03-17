@@ -53,8 +53,8 @@ API para gerenciamento de usuários e transações financeiras com persistência
 ## 📚 Atualmente estudando
 
 - Arquitetura de APIs REST
-- Cloud Computing (Azure)
-- Boas práticas de backend
+- Cloud Computing (Azure e OCI)
+- Desenvolvimento Apex
 - Estruturação de sistemas escaláveis
 
 ---
