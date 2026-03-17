@@ -59,12 +59,12 @@ API para gerenciamento de usuários e transações financeiras com persistência
 
 ## 📫 Contato
 
-💼 LinkedIn: (coloque aqui)  
-📧 Email: (opcional)
+💼 LinkedIn: https://www.linkedin.com/in/sulamita-viegas-280210223/
+📧 Email: sulamitaviegascontato123@gmail.com
 
 ---
 
 ## ✨ Frase
 
-_"Construindo soluções reais enquanto evoluo como desenvolvedora."_
+_"Work Hard, Dream Big!."_
 ✨ "Sempre aprendendo, evoluindo e construindo soluções reais."
